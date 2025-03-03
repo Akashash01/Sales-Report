@@ -2,7 +2,7 @@
 Created a simple sales Dashboard using Tableau.
 # Dashboard link
 https://public.tableau.com/views/SimpleSalesReport_17409885134220/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-#Description
+# Description
 🚀 Getting Started with Tableau: Simple Sales Dashboard
 
 This project is a beginner-friendly introduction to Tableau, focusing on building a clean and insightful Sales Dashboard. It covers essential steps to connect data, create visualizations, and derive key business insights.
